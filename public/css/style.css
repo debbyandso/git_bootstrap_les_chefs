@@ -35,17 +35,20 @@ li .nav-item {
 .link {
   background: #FF004D;
   color: #fff !important;
+  height: 2cm;
+  width: 8cm;
   font-size: 20px;
   font-weight: 300;
   border-radius: 100px;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  margin: 0 auto; }
 
 #rose {
   background-color: white !important;
   color: black !important; }
 
 .espaces {
-  margin-bottom: 222px; }
+  margin-bottom: 200px; }
 
 .sectionblanc {
   background-image: url("../../images/main_bg.jpg");
@@ -130,7 +133,46 @@ li .nav-item {
 
 .textbox {
   font-size: 25px;
-  margin: 0 auto;
+  text-align: center;
+  color: white;
+  padding-top: 1cm; }
+
+.formstyle {
+  background-color: white !important;
+  margin: 30px auto;
+  color: black !important; }
+
+.grosform {
+  margin: 30px auto; }
+
+.dernierbadge {
+  margin: 10px auto; }
+
+.bordsimages {
+  border: 5px solid #D0D0D0;
+  border-radius: 20px; }
+
+.bordimage {
+  border: 5px solid #D0D0D0;
+  border-radius: 20px;
+  width: 170px; }
+
+.badgerose {
+  position: relative;
+  margin-top: -20px; }
+
+.client {
+  background-image: url("../../images/testimonials_background.jpg"); }
+
+.couleurblanc {
   color: white; }
+
+.couleurrose {
+  color: #FF004D; }
+
+.bordtexte {
+  border: 1px solid white;
+  border-radius: 20px;
+  padding-top: 20px; }
 
 /*# sourceMappingURL=style.css.map */
