@@ -32,10 +32,6 @@ li .nav-item {
 .rose {
   background-color: #FF004D; }
 
-.texttitre {
-  font-family: "Courgette", cursive;
-  color: white; }
-
 .link {
   background: #FF004D;
   color: #fff !important;
@@ -71,10 +67,8 @@ li .nav-item {
   text-align: center;
   font-family: "Courgette", cursive; }
 
-.titreprincipale {
-  display: inline-block;
-  color: white;
-  font-family: "Courgette", cursive; }
+.fondnoir {
+  color: white; }
 
 .lorem {
   text-align: center;
@@ -126,5 +120,17 @@ li .nav-item {
 .pourtexte {
   top: 0;
   left: 0; }
+
+.boxform {
+  height: 15cm;
+  width: 20cm;
+  background-image: url("../../images/book_table_bg.jpg");
+  border-radius: 20%;
+  margin: 0 auto; }
+
+.textbox {
+  font-size: 25px;
+  margin: 0 auto;
+  color: white; }
 
 /*# sourceMappingURL=style.css.map */
